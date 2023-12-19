@@ -23,3 +23,5 @@ Sign Up
 If you are a new user, click on the "Sign Up" link on the login page.
 Fill in the required information in the sign-up form.
 Click the "Submit" button to create a new account.
+
+You can watch video presentation in "video" file.
