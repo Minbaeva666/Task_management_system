@@ -19,7 +19,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
                     localStorage.setItem('userId', matchingUser.id);
 
-                    window.location.href = "index.html";
+                    window.location.href = "main.html";
                 } else {
                     alert("Login failed. Please check your username and password.");
                 }
