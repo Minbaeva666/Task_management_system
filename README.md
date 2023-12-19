@@ -2,6 +2,7 @@
 Welcome to the Task Manager Web Application! This application provides a simple login page along with features for creating, deleting, and marking tasks as complete. Users can also sign up for a new account.
 
 Login
+
 Open index.html in a web browser to view the login page.
 Enter your username and password.
 Click the "Submit" button to log in.
